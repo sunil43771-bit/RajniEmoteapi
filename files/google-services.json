@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596783860215",
+    "project_id": "dwfxc-ebee9",
+    "storage_bucket": "dwfxc-ebee9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596783860215:android:f3bd4e0cdad684d45586f2",
+        "android_client_info": {
+          "package_name": "com.Dxawfc.vivek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1WbN0GWhfJJVEpaS-xGjz1FWuUPaZQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
